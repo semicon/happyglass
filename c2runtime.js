@@ -20878,5 +20878,8 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.system_object.prototype.acts.RestartLayout,
-	cr.system_object.prototype.acts.SetVar
+	cr.system_object.prototype.acts.SetVar,
+	cr.system_object.prototype.cnds.CompareVar,
+	cr.system_object.prototype.acts.GoToLayout,
+	cr.system_object.prototype.acts.ResetGlobals
 ];};
