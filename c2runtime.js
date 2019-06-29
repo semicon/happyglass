@@ -20851,9 +20851,9 @@ cr.behaviors.Physics = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
 	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.plugins_.Text,
 	cr.plugins_.TiledBg,
-	cr.plugins_.Touch,
 	cr.behaviors.Physics,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Sprite.prototype.acts.Destroy,

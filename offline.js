@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1561709857,
+	"version": 1561782164,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"images/leftwall-sheet0.png",
 		"images/rightwall-sheet0.png",
-		"images/sprite3-sheet0.png",
 		"images/glass-sheet0.png",
 		"images/glass-sheet1.png",
 		"images/glass-sheet2.png",
@@ -23,6 +22,7 @@
 		"images/barchecking-sheet0.png",
 		"images/emotion-sheet0.png",
 		"images/emotion-sheet1.png",
+		"images/emotion-sheet2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
